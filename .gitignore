@@ -1,0 +1,12 @@
+DS_Store
+**/__pycache__/
+**/Cache/
+**/Resources/Screenshots/
+**/.pytest_cache/
+**/.vscode/
+**/latest_logs/
+**/downloaded_files/
+**/tecframework.egg-info/
+**/allure-results/
+**/allure-report/
+**/.DS_Store
